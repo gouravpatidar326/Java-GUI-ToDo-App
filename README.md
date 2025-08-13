@@ -9,7 +9,7 @@ Scrollable Task List – View multiple tasks easily.
 Lightweight – No database needed, runs entirely in memory.
 
 
-🛠️ Technologies Used
+🛠️ Technologies Used:
 Java (JDK 8+),
 Java Swing for GUI Components
 
